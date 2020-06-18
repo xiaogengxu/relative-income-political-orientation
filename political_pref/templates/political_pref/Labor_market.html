@@ -1,0 +1,21 @@
+{% extends "global/Page.html" %}
+{% load otree static %}
+
+{% block title %}
+
+{% endblock %}
+
+{% block content %}
+
+    <p>Labor market</p>
+    <p>[Question on incentives to stay in workforce here]</p>
+    <p>How much do you agree or disagree with the following statements?</p>
+    <p>[Remark: Five point scale, from strongly disagree to strongly agree, with some reverse scored.]</p>
+
+    <p>{% formfield player.activation_policy %}</p>
+    <p>{% formfield player.universal_income %}</p>
+
+    <br>
+    {% next_button %}
+
+{% endblock %}

@@ -1,0 +1,37 @@
+{% extends "global/Page.html" %}
+{% load otree static %}
+
+{% block title %}
+    Part 5 “Just world”-beliefs (Alesina et al., 2004; Miller, 2016; <a>https://osf.io/m53kv/</a>)
+{% endblock %}
+
+{% block content %}
+
+    <p>The following questions pertain to fairness.</p>
+    <p>In this first set of questions we are interested in your perceptions of fairness with respect to OTHERS
+        [Remark: The 2nd set of questions, i.e. w.r.t. oneself, has been left out of our questionnaire].</p>
+    <p>Please mark your level of agreement using the 7-point scale shown below.</p>
+    <ul>
+        <li>1 Strongly Disagree</li>
+        <li>2 Disagree</li>
+        <li>3 Slightly Disagree</li>
+        <li>4 Neutral</li>
+        <li>5 Slightly Agree </li>
+        <li>6 Agree</li>
+        <li>7 Strongly Agree</li>
+    </ul>
+
+    <br>
+    <p>{% formfield player.q1_fairness %}</p>
+    <p>{% formfield player.q2_fairness %}</p>
+    <p>{% formfield player.q3_fairness %}</p>
+    <p>{% formfield player.q4_fairness %}</p>
+    <p>{% formfield player.q5_fairness %}</p>
+    <p>{% formfield player.q6_fairness %}</p>
+    <p>{% formfield player.q7_fairness %}</p>
+    <p>{% formfield player.q8_fairness %}</p>
+
+    <br>
+    {% next_button %}
+
+{% endblock %}

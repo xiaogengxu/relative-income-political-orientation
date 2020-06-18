@@ -1,0 +1,40 @@
+{% extends "global/Page.html" %}
+{% load otree static %}
+
+{% block title %}
+    Part 9 Incentivized tasks
+{% endblock %}
+
+{% block content %}
+
+    <p>You will receive a 15-euro reward for taking part in this study.</p>
+    <p>[Remark: 20 euros can be paid without any duty from the “employer” side to report to the tax authorities.
+        5 euros have been already spent on incentivizing the expectations. Thus 15 left.]</p>
+
+    <br>
+    <p>You have now a chance of donating at most 7 euros of your reward to Save the Children, a charitable
+        organization helping poor children in Finland financially to ensure they have funds for school books and basic
+        hobbies <a href="https://www.pelastakaalapset.fi/ajankohtaista/lahjaksi-tulevaisuus/" target="_blank">
+            https://www.pelastakaalapset.fi/ajankohtaista/lahjaksi-tulevaisuus/</a></p>
+    <p>{% formfield player.donate %}</p>
+
+    <br>
+
+    <p>You have now a chance of buying Lotto-rows in the weekly National Veikkaus Lotto with at most 7 euros of
+        your reward.</p>
+    <p>{% formfield player.lotto %}</p>
+
+    <br>
+    <p>The questionnaire data, including the rewards, charitable donations and lottery data collected on this page,
+        will be sent to Statistics Finland. The officials (who are specialized experts at collecting and storing data
+        on Finnish individuals, families, firms and organizations) will extract the rewards, donations, and lottery
+        data only from the questionnaire data. They will then connect those pieces of data with your contact data
+        (using the code in the top right corner of your questionnaire the key of which is only available to the SF
+        officials) and send them to an external professional agent (Enkätsfabriken AB, not related to the research
+        team and unaware any details of the study). No other information or data will be revealed to the external agent.
+        The external agent then contacts you and sends you the money, lottery tickets and receipts for donations.</p>
+
+    <br>
+    {% next_button %}
+
+{% endblock %}
