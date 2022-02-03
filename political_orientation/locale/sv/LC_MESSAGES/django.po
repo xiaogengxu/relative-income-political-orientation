@@ -1,0 +1,136 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-29 21:36+0300\n"
+"PO-Revision-Date: 2021-04-22 01:07+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: sv\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: .\social_pref\pages.py:32 .\social_pref\pages.py:53
+#: .\social_pref\pages.py:64
+msgid "Please answer all questions on this page."
+msgstr "Vänligen besvara alla frågor på denna sida."
+
+#: .\social_pref\templates\social_pref\Political_orientation.html:18
+msgid ""
+"In this section, we ask about your views on various societal and political "
+"issues."
+msgstr ""
+"I denna del ställer vi frågor om dina synpunkter på olika samhälleliga och "
+"politiska ämnen."
+
+#: .\social_pref\templates\social_pref\Political_orientation.html:21
+msgid ""
+"In politics, people sometimes talk of \"left\" and \"right\" on economic "
+"matters.\n"
+"        Where would you place yourself on this scale?"
+msgstr ""
+"I politiska sammanhang pratar man ibland om \"höger\" och \"vänster\" i "
+"ekonomiska frågor. Var skulle du ställa dig själv på denna skala?"
+
+#: .\social_pref\templates\social_pref\Political_orientation.html:30
+msgid ""
+"People sometimes talk of conservative and liberal values.\n"
+"        Where would you place yourself on this scale?"
+msgstr ""
+"Man pratar ibland om konservativa och liberala värden. Var skulle du ställa "
+"dig själv på denna skala?"
+
+#: .\social_pref\templates\social_pref\Political_orientation.html:39
+msgid ""
+"Which party would you most likely vote for, if there would be an election "
+"today?\n"
+"        (Parties are listed in alphabetical order.)"
+msgstr ""
+"Vilket parti skulle du rösta på om det skulle vara val i dag? (Partierna är "
+"listade i alfabetisk ordning.)"
+
+#: .\social_pref\templates\social_pref\Self_assessment.html:18
+msgid ""
+"In this section, we ask how you would describe yourself.\n"
+"        Please use the sliders to tell us how well the following statements "
+"describe you as a person."
+msgstr ""
+"I denna del frågar vi om hur du skulle beskriva dig själv. Vänligen dra i "
+"reglagen för att ange hur väl du anser följande påståenden beskriva dig som "
+"person."
+
+#: .\social_pref\templates\social_pref\Self_assessment.html:26
+msgid "\"When someone does me a favor I am willing to return it.\""
+msgstr ""
+"\"När någon gör mig en tjänst är jag villig att göra något i gengäld.\""
+
+#: .\social_pref\templates\social_pref\Self_assessment.html:36
+msgid ""
+"\"If I am treated very unjustly, I will take revenge at the first occasion,\n"
+"            even if there is a cost to do so.\""
+msgstr ""
+"\"Om jag behandlas väldigt orättvist kommer jag att hämnas vid första "
+"tillfälle, även om det innebär en kostnad att göra så.\""
+
+#: .\social_pref\templates\social_pref\Self_assessment.html:47
+msgid "\"I assume that people have only the best intentions.\""
+msgstr "\"Jag antar att människor bara menar väl.\""
+
+#: .\social_pref\templates\social_pref\Self_assessment.html:57
+msgid "\"I enjoy working in situations involving competition with others.\""
+msgstr ""
+"\"Jag tycker om att jobba i omständigheter som innebär konkurrens med andra."
+"\""
+
+#: .\social_pref\templates\social_pref\Self_assessment.html:67
+msgid "\"It is important to me to perform better than others on a task.\""
+msgstr "\"Det är viktigt för mig att jag utför mina uppdrag bättre än andra.\""
+
+#: .\social_pref\templates\social_pref\Willingness_to_act.html:18
+msgid ""
+"In this section we ask about your willingness to act in a certain way.\n"
+"        Please use the sliders below to indicate your answers."
+msgstr ""
+"I denna del frågar vi om din beredskap att agera på ett visst sätt. Vänligen "
+"ange dina svar genom att dra i reglagen nedan."
+
+#: .\social_pref\templates\social_pref\Willingness_to_act.html:26
+msgid ""
+"How willing are you to give up something that is beneficial for you today\n"
+"            in order to benefit more from that in the future?"
+msgstr ""
+"Hur villig är du att avstå från något som gynnar dig idag för att bättre "
+"gynnas av det i framtiden?"
+
+#: .\social_pref\templates\social_pref\Willingness_to_act.html:37
+msgid ""
+"How willing are you to give to good causes without expecting anything in "
+"return?"
+msgstr ""
+"Hur villig är du att ge till välgörenhet utan att förvänta något i retur?"
+
+#: .\social_pref\templates\social_pref\Willingness_to_act.html:47
+msgid "In general, how willing or unwilling are you to take risks?"
+msgstr "I allmänhet, hur villig eller ovillig är du att ta risker?"
+
+#: .\social_pref\templates\social_pref\includes\nav.html:26
+msgid "Finnish"
+msgstr "suomi"
+
+#: .\social_pref\templates\social_pref\includes\nav.html:35
+msgid "Swedish"
+msgstr "svenska"
+
+#~ msgid "English"
+#~ msgstr "English"
+
+#~ msgid "Next"
+#~ msgstr "Nästa"

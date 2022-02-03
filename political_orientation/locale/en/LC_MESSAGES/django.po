@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-29 21:36+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\social_pref\pages.py:32 .\social_pref\pages.py:53
+#: .\social_pref\pages.py:64
+msgid "Please answer all questions on this page."
+msgstr ""
+
+#: .\social_pref\templates\social_pref\Political_orientation.html:18
+msgid ""
+"In this section, we ask about your views on various societal and political "
+"issues."
+msgstr ""
+
+#: .\social_pref\templates\social_pref\Political_orientation.html:21
+msgid ""
+"In politics, people sometimes talk of \"left\" and \"right\" on economic "
+"matters.\n"
+"        Where would you place yourself on this scale?"
+msgstr ""
+
+#: .\social_pref\templates\social_pref\Political_orientation.html:30
+msgid ""
+"People sometimes talk of conservative and liberal values.\n"
+"        Where would you place yourself on this scale?"
+msgstr ""
+
+#: .\social_pref\templates\social_pref\Political_orientation.html:39
+msgid ""
+"Which party would you most likely vote for, if there would be an election "
+"today?\n"
+"        (Parties are listed in alphabetical order.)"
+msgstr ""
+
+#: .\social_pref\templates\social_pref\Self_assessment.html:18
+msgid ""
+"In this section, we ask how you would describe yourself.\n"
+"        Please use the sliders to tell us how well the following statements "
+"describe you as a person."
+msgstr ""
+
+#: .\social_pref\templates\social_pref\Self_assessment.html:26
+msgid "\"When someone does me a favor I am willing to return it.\""
+msgstr ""
+
+#: .\social_pref\templates\social_pref\Self_assessment.html:36
+msgid ""
+"\"If I am treated very unjustly, I will take revenge at the first occasion,\n"
+"            even if there is a cost to do so.\""
+msgstr ""
+
+#: .\social_pref\templates\social_pref\Self_assessment.html:47
+msgid "\"I assume that people have only the best intentions.\""
+msgstr ""
+
+#: .\social_pref\templates\social_pref\Self_assessment.html:57
+msgid "\"I enjoy working in situations involving competition with others.\""
+msgstr ""
+
+#: .\social_pref\templates\social_pref\Self_assessment.html:67
+msgid "\"It is important to me to perform better than others on a task.\""
+msgstr ""
+
+#: .\social_pref\templates\social_pref\Willingness_to_act.html:18
+msgid ""
+"In this section we ask about your willingness to act in a certain way.\n"
+"        Please use the sliders below to indicate your answers."
+msgstr ""
+
+#: .\social_pref\templates\social_pref\Willingness_to_act.html:26
+msgid ""
+"How willing are you to give up something that is beneficial for you today\n"
+"            in order to benefit more from that in the future?"
+msgstr ""
+
+#: .\social_pref\templates\social_pref\Willingness_to_act.html:37
+msgid ""
+"How willing are you to give to good causes without expecting anything in "
+"return?"
+msgstr ""
+
+#: .\social_pref\templates\social_pref\Willingness_to_act.html:47
+msgid "In general, how willing or unwilling are you to take risks?"
+msgstr ""
+
+#: .\social_pref\templates\social_pref\includes\nav.html:26
+msgid "Finnish"
+msgstr ""
+
+#: .\social_pref\templates\social_pref\includes\nav.html:35
+msgid "Swedish"
+msgstr ""
